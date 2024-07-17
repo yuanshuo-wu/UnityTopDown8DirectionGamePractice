@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: 79cf1ea73d8bf974eb6a177410ab8dda
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: in battle sprites 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340.8
+        width: 84.666664
+        height: 85.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626c01a879345a3489d9922c51372ead
+      internalID: -116966772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: in battle sprites 1_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 340.8
+        width: 84.666664
+        height: 85.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8cb5a9fcdeca943a54ce3fb3df19b6
+      internalID: -948421092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: in battle sprites 1_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 340.8
+        width: 84.666664
+        height: 85.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed6607bba2f5b34f8df48f03d6696f0
+      internalID: 138349753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: in battle sprites 1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255.8
+        width: 84.666664
+        height: 85.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d97f70cc452524abab13665b902733
+      internalID: -2059575189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: in battle sprites 1_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 255.8
+        width: 84.666664
+        height: 85.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c841a39c53550042a4ef9695654df9c
+      internalID: -1027309077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: in battle sprites 1_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 255.8
+        width: 84.666664
+        height: 85.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0fbcf4a20f12e478cca9aaaaf50bfd
+      internalID: 1982710848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: in battle sprites 1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170.8
+        width: 84.666664
+        height: 85.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e879b8a349a096f439032a9379313e27
+      internalID: 1888819586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: in battle sprites 1_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 170.8
+        width: 84.666664
+        height: 85.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00a6525d5f216b4ca4a424ce4132b7e
+      internalID: 1165118848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: in battle sprites 1_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 170.8
+        width: 84.666664
+        height: 85.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa5fc9855669dc4b9f5adc5148d65e9
+      internalID: -1223939065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: in battle sprites 1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85.8
+        width: 84.666664
+        height: 85.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737423d35a6b8c04a9fab183c6c8aa1c
+      internalID: -136518288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: in battle sprites 1_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 85.8
+        width: 84.666664
+        height: 85.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572e7db5691a0154182dcb493b15d51b
+      internalID: 1181501377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: in battle sprites 1_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 85.8
+        width: 84.666664
+        height: 85.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b93dbc138168644af4624c58b0e3b7
+      internalID: 1513956245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: in battle sprites 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.80000305
+        width: 84.666664
+        height: 85.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dee52ea04748f4c81a383a567b4136
+      internalID: 1873001873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: in battle sprites 1_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0.80000305
+        width: 84.666664
+        height: 85.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4befcc4d65241644e9a1b2ed13a23d38
+      internalID: -1395028619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: in battle sprites 1_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0.80000305
+        width: 84.666664
+        height: 85.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e644e45200b3740428c1f77110dd9f99
+      internalID: 1731993965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      in battle sprites 1_0: -116966772
+      in battle sprites 1_1: -948421092
+      in battle sprites 1_10: 1181501377
+      in battle sprites 1_11: 1513956245
+      in battle sprites 1_12: 1873001873
+      in battle sprites 1_13: -1395028619
+      in battle sprites 1_14: 1731993965
+      in battle sprites 1_2: 138349753
+      in battle sprites 1_3: -2059575189
+      in battle sprites 1_4: -1027309077
+      in battle sprites 1_5: 1982710848
+      in battle sprites 1_6: 1888819586
+      in battle sprites 1_7: 1165118848
+      in battle sprites 1_8: -1223939065
+      in battle sprites 1_9: -136518288
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
